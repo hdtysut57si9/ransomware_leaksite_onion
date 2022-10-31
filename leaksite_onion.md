@@ -1,4 +1,3 @@
 | Name | .onion |
 | :------ | :------ |
-| [A] | .onion |
-| [B] | .onion |
+| [gandcrab] | http://gdcbghvjyqy7jclk.onion.top/ |
