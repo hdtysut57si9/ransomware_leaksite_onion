@@ -1,3 +1,3 @@
 | Name | .onion |
 | :------ | :------ |
-| [gandcrab] | http://gdcbghvjyqy7jclk.onion.top/ |
+| gandcrab | http://gdcbghvjyqy7jclk.onion.top/ |
