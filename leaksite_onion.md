@@ -1,5 +1,6 @@
 | Name | .onion | bitcoin | mail address |
 | :------ | :------ | :------ | :------ |
+| AdminLocker | http://adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion | | |
 | AKO | http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion | | |
 | CMLOCKER | | bc1qzpa3j6qse5xfxft2xy7h2phq04wq9pk66lllz5 | leljicok@gmail.com |
 | D0nut | https://qkbbaxiuqqcqb5nox4np4qjcniy2q6m7yeluvj7n5i5dn7pgpcwxwfid.onion | | |
