@@ -9,6 +9,7 @@
 | GandCrab | http://gdcbghvjyqy7jclk.onion.top/ | | |
 | Snatch | | | NeilAlden1Armstrong14@swisscows.email <br /> JohniFlex@airmail.cc |
 | STOP/DJVU | | | support@fishmail.top <br /> datarestorehelp@airmail.cc |
+| TargetCompany | http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion | | mallox@stealthypost.net |
 | WannaCry | | 12t9YDPgwueZ9NyMgw519p7AA8isjr6SMw | |
 | XData | | | begins@colocasia.org <br /> bilbo@colocasia.org <br /> frodo@colocasia.org <br /> trevor@thwonderfulday.com <br /> bob@thwonderfulday.com <br /> bil@thwonderfulday.com |
 | unknown_1 | | | b5cce0d45fd0@list.ru |
