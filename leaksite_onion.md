@@ -1,6 +1,7 @@
 | Name | .onion | bitcoin | mail address |
 | :------ | :------ | :------ | :------ |
 | AdminLocker | http://adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion | | |
+| AgainstTheWest | http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion | | |
 | AKO | http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion | | |
 | Bl00dy | | | bloody.ransomware.support@armormail.net |
 | CMLOCKER | | bc1qzpa3j6qse5xfxft2xy7h2phq04wq9pk66lllz5 | leljicok@gmail.com |
